@@ -1,0 +1,6 @@
+site_name: UCT Advanced Computing Education and Documentation
+site_url: https://acend.uct.ac.za
+theme:
+  name: material
+  logo: logo.png
+  favicon: images/favicon.png
